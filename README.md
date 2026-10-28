@@ -1,1 +1,1 @@
-This is some test readme in a meeting room
+This is a test readme in a meeting room
